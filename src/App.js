@@ -14,11 +14,11 @@ export default function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Maria Docherty
+          Thabiso Raphulu
         </a>{" "}
         and is{" "}
         <a
-          href="https://github.com/Mariadoc1/react-weather-app"
+          href="https://github.com/TpRaphulu/Thabiso-React"
           target="_blank"
           rel="noopener noreferrer"
         >
